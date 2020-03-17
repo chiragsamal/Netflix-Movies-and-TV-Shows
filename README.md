@@ -1,7 +1,7 @@
 # Netflix-Movies-and-TV-Shows
 
 
-![Netflix](https://t4m7p5j6.stackpathcdn.com/wp-content/uploads/2020/01/netflix.png)
+![Netflix](https://www.gizmozones.com/wp-content/uploads/2019/07/netflix-icon-wallpaper-66504-68771-hd-wallpapers.jpg)
 ## Netflix Analytics
 <br>
 
